@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans&family=Roboto&display=swap');
+body {
+	background-color: #eae7dc;
+	color: black;
+}
+nav {
+	background-color: #d8c3a5;
+	color:#8e8d8a
+}
+h1{
+	font-family: lobster,cursive;
+}
+.wrapper{
+	display: flex;
+	justify-content: space-between;
+	margin: 10px;
+	flex-direction: row;
+	font-family: opensans, sans-serif;
+}
+
+p{
+	font-family: opensans, sans-serif;
+}
+.photo {
+	margin: 10px;
+}
+.about {
+	margin: 10px;
+}
+.aducation {
+	margin: 10px;
+}
+.experience {
+	margin: 10px;
+}
+.books{
+	margin: 10px;
+}
+.films{
+	margin: 10px;
+}
+.bands{
+	margin: 10px; 
+}
